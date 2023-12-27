@@ -110,7 +110,7 @@ To run this project, you will need to add the following environment variables to
 
 #### Home
 
-![Home](./Screenshots/1.png?raw=true)
+![Home](./Screenshots/1.png)
 
 ![Home](./Screenshots/2.png?raw=true)
 
