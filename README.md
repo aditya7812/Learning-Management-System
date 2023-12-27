@@ -60,7 +60,7 @@ Install backend dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm run dev
 ```
 
 Install frontend dependencies
@@ -73,7 +73,7 @@ Install frontend dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm run dev
 ```
 
 
