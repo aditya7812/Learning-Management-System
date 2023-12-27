@@ -6,7 +6,7 @@ Full Stack Project project build with MERN Stack along with other technologies.
 
 ## Tech Stack
 
-**Client:** React, Redux-Toolkit, RTK Query, TailwindCSS, react-pdf
+**Client:** React, Redux-Toolkit, RTK Query, React-Hook-Form, TailwindCSS, react-pdf
 
 **Server:** Node, Express, MongoDB, Stripe, JWT, Cloudinary
 
