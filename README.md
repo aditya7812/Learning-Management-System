@@ -105,6 +105,72 @@ To run this project, you will need to add the following environment variables to
 `STRIPE_KEY`
 
 
+
+## Screenshots
+
+#### Home
+
+![Home](./Screenshots/1.png?raw=true)
+
+![Home](./Screenshots/2.png?raw=true)
+
+#### Login 
+
+![Login](./Screenshots/3.png?raw=true)
+
+#### Signup
+
+![Signup](./Screenshots/4.png?raw=true)
+
+#### Course Details
+
+![Course_1](./Screenshots/5.png?raw=true)
+
+![Course_2](./Screenshots/6.png?raw=true)
+
+#### Purchase
+
+![Stripe](./Screenshots/7.png?raw=true)
+
+#### Certificate
+
+![Certificate](./Screenshots/8.png?raw=true)
+
+#### Rating and Review
+
+![Review](./Screenshots/9.png?raw=true)
+
+#### Purchased Courses
+
+![Purchased_Courses](./Screenshots/10.png?raw=true)
+
+#### Search
+
+![Search](./Screenshots/11.png?raw=true)
+
+#### Profile 
+
+![Profile](./Screenshots/12.png?raw=true)
+
+#### Instructor Dashboard
+
+![Dahboard](./Screenshots/13.png?raw=true)
+
+#### Course Creation
+
+![Create](./Screenshots/14.png?raw=true)
+
+![Create](./Screenshots/15.png?raw=true)
+
+![Create](./Screenshots/16.png?raw=true)
+
+![Create](./Screenshots/17.png?raw=true)
+
+![Create](./Screenshots/18.png?raw=true)
+
+![Create](./Screenshots/19.png?raw=true)
+
+
 ## Roadmap
 
 - Form validation with Zod
