@@ -207,5 +207,4 @@ Love Babbar Megaproject Repository
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![](https://komarev.com/ghpvc/?username=aditya7812&label=Views)
 
